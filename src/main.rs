@@ -1,9 +1,12 @@
-use write_fonts::read::FontRef;
-use write_fonts::read::TableProvider;
-use write_fonts::FontBuilder;
+// cargo run --release
+use write_fonts::read::{
+    FontRef, 
+    TableProvider
+};
 use write_fonts::{
     from_obj::ToOwnedTable,
     tables::os2::Os2,
+    FontBuilder,
 };
 
 fn main () {
