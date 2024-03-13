@@ -7,3 +7,4 @@ This is a very brief demo how to read, modify and write a font using rust (fonta
 - https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
 - https://docs.rs/write-fonts/latest/write_fonts/
 - https://stackoverflow.com/questions/76392138/how-do-i-modify-a-font-and-save-it-with-rust-write-fonts
+- https://github.com/rsheeter/read-fonts-wasm
